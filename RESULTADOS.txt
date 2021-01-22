@@ -31,3 +31,35 @@ sys	0m0,002s
 =======================================
 Trabajo terminado.
 
+Ejecutando script k-mer13 en Python con Singularity.
+Start
+
+real	1m50,342s
+user	1m50,117s
+sys	0m0,009s
+======================================
+======================================
+Ejecutando script k-mer13 en C++ con Singularity.
+Start
+
+real	0m0,683s
+user	0m0,681s
+sys	0m0,001s
+======================================
+======================================
+Ejecutando script k-mer14 en Python con Singularity.
+Start
+
+real	7m37,662s
+user	7m36,802s
+sys	0m0,008s
+======================================
+======================================
+Ejecutando script k-mer14 en C++ con Singularity.
+Start
+
+real	0m2,784s
+user	0m2,780s
+sys	0m0,001s
+======================================
+Trabajo terminado.
