@@ -1,0 +1,33 @@
+Ejecutando script k-mer13 en Python.
+Start
+
+real	1m53,789s
+user	1m53,607s
+sys	0m0,010s
+=======================================
+=======================================
+Ejecutando script k-mer13 en C++.
+Start
+
+real	0m0,680s
+user	0m0,679s
+sys	0m0,000s
+=======================================
+=======================================
+Ejecutando script k-mer14 en Python.
+Start
+
+real	7m35,275s
+user	7m34,511s
+sys	0m0,010s
+=======================================
+=======================================
+Ejecutando script k-mer14 en C++.
+Start
+
+real	0m2,781s
+user	0m2,776s
+sys	0m0,002s
+=======================================
+Trabajo terminado.
+
