@@ -1,4 +1,4 @@
-#!/bin/python3.6
+#!/usr/bin/env python
 
 def convert(c):
 	if (c == 'A'): return 'C'
